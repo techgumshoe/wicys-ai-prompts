@@ -9,10 +9,10 @@ Feel free to copy, customize, and share!
 
 - [Resume & Role Alignment](#resume-and-role-alignment)
 - [Job Description & Application Strategy](#job-description-and-application-strategy)
-- [Job Search & Interview Strategy](#job-search--interview-strategy)
+- [Job Search & Interview Strategy](#job-search-and-interview-strategy)
 - [Offer Negotiation](#offer-negotiation)
 - [Interview Reflection](#interview-reflection)
-- [Self-Improvement & Skill Building](#self-improvement--skill-building)
+- [Self-Improvement & Skill Building](#self-improvement-and-skill-building)
 - [AI in the Kitchen](#ai-in-the-kitchen-cooking-smarter-not-harder)
 - [Travel Planning](#ai-powered-travel-planning)
 - [Bonus Prompts](#bonus-prompts-strategy-storytelling--self-discovery)
@@ -49,7 +49,7 @@ Craft a powerful personal value proposition that positions me as the ideal candi
 
 ---
 
-## 🧳 Job Search & Interview Strategy
+## Job Search and Interview Strategy
 
 **7.**  
 I have an interview with (COMPANY) for the position of (JOB POSITION).  
@@ -83,14 +83,14 @@ Can you generate a practice test or challenges that reflect the level of underst
 
 ---
 
-## 💬 Offer Negotiation
+## Offer Negotiation
 
 **15.**  
 Create a negotiation script for my offer from (company, role) to maximize my compensation while maintaining a positive relationship.
 
 ---
 
-## 🧠 Interview Reflection
+## Interview Reflection
 
 **16.**  
 Help me reflect on this interview I just completed for the [Job Title] role at [Company Name].  
@@ -98,7 +98,7 @@ Prompt me with questions or insights that can help me evaluate how it went, what
 
 ---
 
-## 🎯 Self-Improvement & Skill Building
+## Self-Improvement and Skill Building
 
 **17.**  
 Analyze my communication patterns based on our conversation so far.  
@@ -118,7 +118,7 @@ Generate a list of 10 detailed and creative prompt ideas that I can use to get t
 
 ---
 
-## 🥗 AI in the Kitchen: Cooking Smarter, Not Harder
+## AI in the Kitchen: Cooking Smarter, Not Harder
 
 **21.**  
 I have a budget of $X for groceries this week. Can you help me plan a shopping list for healthy meals and snacks?
@@ -134,7 +134,7 @@ I have [list ingredients]. What easy and healthy meal can I make with these?
 
 ---
 
-## ✈️ AI-Powered Travel Planning
+## AI-Powered Travel Planning
 
 **25.**  
 Plan a 7-day trip to [destination] with must-see attractions, food spots, and hidden gems.
@@ -154,7 +154,7 @@ Suggest the best-rated, budget-friendly stays in [destination] based on my prefe
 **30.**  
 List the must-try dishes and best local restaurants in [destination] for an authentic experience.
 
-## ✨ Bonus Prompts: Strategy, Storytelling & Self-Discovery
+## Bonus Prompts: Strategy, Storytelling & Self-Discovery
 
 These bonus prompts are designed to stretch your thinking, support storytelling, and help you align your next career step with your values and goals.
 
