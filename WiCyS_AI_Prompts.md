@@ -5,21 +5,21 @@ Feel free to copy, customize, and share!
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
-- [📄 Resume & Role Alignment](#resume--role-alignment)
-- [📌 Job Description & Application Strategy](#job-description--application-strategy)
-- [🧳 Job Search & Interview Strategy](#job-search--interview-strategy)
-- [💬 Offer Negotiation](#offer-negotiation)
-- [🧠 Interview Reflection](#interview-reflection)
-- [🎯 Self-Improvement & Skill Building](#self-improvement--skill-building)
-- [🥗 AI in the Kitchen](#ai-in-the-kitchen-cooking-smarter-not-harder)
-- [✈️ Travel Planning](#ai-powered-travel-planning)
-- [✨ Bonus Prompts](#bonus-prompts-strategy-storytelling--self-discovery)
+- [Resume & Role Alignment](#resume-and-role-alignment)
+- [Job Description & Application Strategy](#job-description-and-application-strategy)
+- [Job Search & Interview Strategy](#job-search--interview-strategy)
+- [Offer Negotiation](#offer-negotiation)
+- [Interview Reflection](#interview-reflection)
+- [Self-Improvement & Skill Building](#self-improvement--skill-building)
+- [AI in the Kitchen](#ai-in-the-kitchen-cooking-smarter-not-harder)
+- [Travel Planning](#ai-powered-travel-planning)
+- [Bonus Prompts](#bonus-prompts-strategy-storytelling--self-discovery)
 
 ---
 
-## 📄 Resume & Role Alignment
+## Resume and Role Alignment
 
 **1.**  
 Here is my current resume and the job description of a [Job Title] role I’m interested in applying for at [Company Name].  
@@ -31,7 +31,7 @@ Ask me follow-up questions to add tools used, and results for accuracy.
 
 ---
 
-## 📌 Job Description & Application Strategy
+## Job Description and Application Strategy
 
 **3.**  
 Generate a personalized cover letter for (company/position) that connects my experience directly to their specific needs.  
