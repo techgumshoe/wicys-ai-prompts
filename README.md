@@ -1,4 +1,4 @@
-# WiCyS AI Prompts: Your AI-Powered Career Companion 🤖✨
+# WiCyS AI Prompts: Your AI-Powered Career Companion ✨
 
 Welcome! This repository contains a curated list of AI prompts designed to support women in cybersecurity and tech with:
 
